@@ -89,7 +89,7 @@ ZL专利号：03143211.5
 WO2005020885A3
 5. Compositions against the sars coronavirus and its uses
 AT550037T
-## <h2 id="7">重要时间点</h2>
+## <h2 id="7">重要事件与时间点</h2>
 信息来源：[人民网-北京抗非典大事记](http://www.people.com.cn/GB/paper2515/9692/893052.html)、[维基百科-非典事件](https://zh.wikipedia.org/wiki/SARS%E4%BA%8B%E4%BB%B6)
 1. `2003年3月6日`北京接报第一例输入性非典病例
 2. `2003年3月12日`世界卫生组织发布费电全球预警
