@@ -1,6 +1,6 @@
 # HCoV-NL63
 
-`2020.02.13 Acher Wang 编辑`
+`2020.02.20 Acher Wang 编辑`
 
 # 导读
 
@@ -58,9 +58,19 @@
 检测方法PT-PCR
 ## <h2 id="6">学术突破</h2>
 ### <h3 id="6.1">重要论文</h3>
-1. New human coronavirus, HCoV‐NL63, associated with severe lower respiratory tract disease in Australia
-2. Replication of human coronaviruses SARS-CoV, HCoV-NL63 and HCoV-229E is inhibited by the drug FK506
-3. A novel pancoronavirus RT-PCR assay: frequent detection of human coronavirus NL63 in children hospitalized with respiratory tract infections in Belgium
+1. [New human coronavirus, HCoV‐NL63, associated with severe lower respiratory tract disease in Australia](http://med.wanfangdata.com.cn/Paper/Detail/PeriodicalPaper_PM15648064)  
+发表时间：2005年  
+**论文概要**：一种新的人类冠状病毒HCoV-NL63最近与毛细支气管炎有关。目前的研究目的是使用针对1a和1b基因的巢式RT-PCR检测方法，回顾性地检查保存的标本中是否存在HCoV-NL63。研究人群由昆士兰医院的急性呼吸道疾病患者组成。在代表766例患者的840例标本中，有16例(2%)的鼻咽吸液中检测到HCoV-NL63。HCoV-NL63阳性个体诊断为最常见的下呼吸道(LRT)疾病(81%)。在HCoV-NL63感染首次出现时，通常通过异常的胸部x线(56%)和呼吸窘迫(50%)、喘息(44%)和rales(25%)来支持临床诊断。所有HCoV-NL63阳性的患者都需要入院。在38%的HCoV-NL63阳性标本中，发现了第二个病原体。1b基因扩增子序列与病毒型株的核苷酸同源性超过99%，1a基因扩增子序列可对病毒株进行分组。研究表明，HCoV-NL63在一年中较冷的月份与澳大利亚一家医院的严重LRT疾病有关。我们认为HCoV-NL63是一种全球性的季节性病原体，与儿童和成人的严重轻rt疾病相关。
+
+2. [Replication of human coronaviruses SARS-CoV, HCoV-NL63 and HCoV-229E is inhibited by the drug FK506](https://www.aminer.cn/pub/55a497f865ceb7cb02d31b6c/replication-of-human-coronaviruses-sars-cov-hcov-nl-and-hcov-e-is)  
+发表时间：2012年  
+**论文概要**：最近的研究表明冠状病毒(CoV)的复制依赖于活跃的免疫亲蛋白途径。在这里，我们证明了药物FK506(他克莫司)在低浓度、非细胞毒性的细胞培养条件下，能强烈抑制人冠状病毒SARS-CoV、HCoV-NL63和HCoV-229E的生长。通过斑块滴定、qPCR、荧光素酶和绿色荧光蛋白(GFP)报告基因表达，复制被减少了几个数量级。在CaCo2细胞中，fk506结合蛋白FKBP1A和FKBP1B的敲除阻止了HCoV-NL63的复制，提示这些免疫亲蛋白家族成员需要病毒生长。
+
+3. [A novel pancoronavirus RT-PCR assay: frequent detection of human coronavirus NL63 in children hospitalized with respiratory tract infections in Belgium](https://www.aminer.cn/pub/53e9be27b7602d9704ae0d60/a-novel-pancoronavirus-rt-pcr-assay-frequent-detection-of-human-coronavirus-nl)  
+发表时间：2005年  
+**论文概要**：目前已知有四种人类冠状病毒可感染呼吸道:人类冠状病毒OC43 (HCoV-OC43)和229E (HCoV-229E)、SARS相关冠状病毒(SARS- cov)和新近发现的人类冠状病毒NL63 (HCoV-NL63)。在这项研究中，我们探讨了HCoV-NL63感染在比利时诊断为呼吸道感染的儿童中的发病率。2003年和2004年冬季因呼吸道疾病住院的儿童样本使用优化的全冠状病毒RT-PCR检测HCoV-NL63的存在。本研究共检出7个HCoV-NL63阳性样本，其中6个样本于2003年1月至2月期间采集，1个样本于2004年2月底采集。我们的结果支持了HCoV-NL63可导致儿童严重呼吸道症状的观点。对S基因的序列分析表明，我们的分离株可分为两个亚型，分别对应于1988年和2003年在荷兰分离出的两个HCoV-NL63原型序列，表明这两个亚型目前可能是共循环的。
+
 ### <h3 id="6.2">重大专利</h3>
-HCoV-NL63中国株全长cDNA感染性克隆及相关RNA病毒载体
-申请号：201410336751.0
+[HCoV-NL63中国株全长cDNA感染性克隆及相关RNA病毒载体](http://www.wanfangdata.com.cn/details/detail.do?_type=patent&id=CN201410336751.0)  
+申请号：CN201410336751.0  
+摘要：本发明通过病毒RNA提取、RT-PCR、克隆测序的方法首次获得了HCoV-NL63国内株全长基因组序列信息，并且该国内株处于一个新的基因型。在此基础上，通过体外连接、体外转录、电转染宿主细胞的方法获得了HCoV-NL63国内株全长cDNA的感染性克隆。通过对非结构蛋白基因ORF3进行置换，替换为绿色荧光蛋白基因GFP并实现了对含有GFP外源基因的全长cDNA的病毒拯救，并证明了ORF3在病毒体外细胞培养中为复制所非必需。该感染性克隆可用于人冠状病毒病原生物学研究与新型疫苗与药物的研发。基于该感染性克隆的RNA病毒载体可用于表达其他外源蛋白，用于疫苗与药物研发。
