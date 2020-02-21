@@ -1,6 +1,6 @@
 # HCoV-229E
 
-`2020.02.13 Acher Wang 编辑`
+`2020.02.20 Acher Wang 编辑`
 
 # 导读
 
@@ -56,15 +56,27 @@ Hamre等用人胚肾细胞分离得到类似的病毒，并将其命名为HCoV-2
 
 ## <h2 id="6">学术突破</h2>
 ### <h3 id="6.1">重要论文</h3>
-1. 2001年9月由霍普塔尔大学人与分子病毒学实验室发表的“Direct diagnosis of human respiratory coronaviruses 229E and OC43 by the polymerase chain reaction”论文，研究出了通过聚合酶链反应直接诊断人呼吸道冠状病毒229E和OC43，该方法可以提供有用的工具来证明人类冠状病毒在呼吸道感染中的作用。
-2. 2003年，科罗拉多大学健康科学中心机构的Jamie J. Breslin, Irene Mørk, M. K. Smith, Lotte K. Vogel等作者发表“Human Coronavirus 229E: Receptor Binding Domain and Neutralization by Soluble Receptor at 37°C”论文，研究了截短的人冠状病毒HCoV-229E刺突糖蛋白含有与纯化的可溶性病毒受体人氨肽酶N（hAPN）结合的407至547位氨基酸。可溶性hAPN在37°C而不是4°C时中和了HCoV-229E病毒体的感染力。因此，hAPN的结合可能会触发37°C的病毒刺突蛋白构象变化，从而促进病毒进入。
-3. 2009年9月，德国汉堡伯恩哈德.诺西特热带医学研究所、波恩大学医学中心等在Emerging Infectious Diseases上发表论文“Distant relatives of severe acute respiratory syndrome coronavirus and close relatives of human coronavirus 229E in bats, Ghana”，研究了严重急性呼吸系统综合症冠状病毒的远亲和人类冠状病毒229E的近亲在加纳的蝙蝠中
-4. 2018年2月，复旦大学在IJMS期刊上发表论文“Peptide-based membrane fusion inhibitors targeting HCoV-229E spike protein HR1 and HR2 domains”，发现229E-HR1P和229E-HR2P可以相互作用形成稳定的六螺旋束，并抑制HCoV-229E尖峰蛋白介导的细胞间融合，IC 50分别为5.7和0.3 µM。229E-HR2P作为用于治疗和预防HCoV-229E感染的抗病毒药物，有望进一步发展
+1. [Direct diagnosis of human respiratory coronaviruses 229E and OC43 by the polymerase chain reaction](https://www.aminer.cn/pub/53e9bce0b7602d970496332d/direct-diagnosis-of-human-respiratory-coronaviruses-e-and-oc-by-the-polymerase)  
+发表时间：2001年  
+**论文概要**：建立了扩增HCoV-229E和HCoV-OC43 M蛋白基因的rt - pcr杂交方法。将这些原始引物的分析灵敏度与N基因中定义的引物进行了比较。结果表明，该分子检测方法可以检测到HCoV-229E的0.05 TCID50和HCoV-OC43的0.01 TCID50。使用该方法可检测临床标本中的HCoV-229E和HCoV-OC43:使用rt - pcr杂交检测348例呼吸道标本(202例痰标本和146例鼻吸标本)，检测12例人冠状病毒(3%)。该方法可为阐明人冠状病毒在呼吸道感染中的作用提供有用的工具。  
 
+2. [Human Coronavirus 229E: Receptor Binding Domain and Neutralization by Soluble Receptor at 37 C](https://www.aminer.cn/pub/53e9b833b7602d97043ef421/human-coronavirus-e-receptor-binding-domain-and-neutralization-by-soluble-receptor-at)  
+发表时间：2003年  
+**论文概要**：截断的人冠状病毒HCoV-229E穗状糖蛋白含有氨基酸407至547，与纯化的可溶性病毒受体人氨基肽酶N (hAPN)结合。可溶性hAPN在37℃时可以中和HCoV-229E病毒粒子的感染性，但在4℃时则不能。因此，hAPN的结合可能会在37℃时触发病毒突刺蛋白的构象变化，从而促进病毒进入。  
+
+3. [Distant relatives of severe acute respiratory syndrome coronavirus and close relatives of human coronavirus 229E in bats, Ghana](https://www.aminer.cn/pub/53e9a52cb7602d9702e4d278/distant-relatives-of-severe-acute-respiratory-syndrome-coronavirus-and-close-relatives-of)  
+发表年份：2009年  
+**论文概要**：我们在加纳测试了12种蝙蝠的冠状病毒(CoV) RNA。食虫蝙蝠的病毒流行率(n = 123)为9.76%。在212份来自Eidolon helvum果蝠的粪便样本中未检出CoV。叶鼻蝠按形态分为1组和2组cov。病毒浓度<或= 45000份/100毫克蝙蝠粪便。多样化的1组CoV与人类普通感冒病毒hCoV-229E有共同的祖先，但与hCoV-NL63没有共同的祖先，这对人类共同血统的假说提出了质疑。hCoV-229E和ghanatt - covgrp1的共同祖先大约出现在公元1686-1800年。加纳布特- covgrp2与类似严重急性呼吸综合征的CoV群有着共同的祖先(约2400年)。  
+
+4. [Peptide-based membrane fusion inhibitors targeting HCoV-229E spike protein HR1 and HR2 domains](https://www.aminer.cn/pub/5c0f77a7da562944ac725f10/peptide-based-membrane-fusion-inhibitors-targeting-hcov-e-spike-protein-hr-and)
+发表年份：2018年  
+**论文概要**：人冠状病毒229E (HCoV-229E)感染婴幼儿、老年人和免疫缺陷患者可导致严重疾病，因此需要开发有效和安全的治疗方法。我们报道了针对HCoV-229E穗蛋白七肽重复1 (HR1)域和七肽重复2 (HR2)域的两种肽基膜融合抑制剂的设计、合成和表征。我们发现229 e-hr1p和229 e-hr2p可以形成一个稳定的互动six-helix包和抑制hcov - 229 e飙升protein-mediated信息融合与集成电路µM 5.7和0.3,分别。229 e-hr2p有效地抑制准型和生活hcov - 229 eµM感染IC的0.5和1.7,分别。在小鼠模型中，经鼻给药的229E-HR2P可广泛分布于上呼吸道和下呼吸道，并维持其融合抑制活性。因此，229E-HR2P有望作为治疗和预防HCoV-229E感染的抗病毒药物进一步开发。
 
 ### <h3 id="6.2">重大专利</h3>
-1. 用于19种人呼吸道病毒检测的多重荧光定量PCR试剂盒
-申请号：201910733306.0
+1. [用于19种人呼吸道病毒检测的多重荧光定量PCR试剂盒](http://www.wanfangdata.com.cn/details/detail.do?_type=patent&id=CN201910733306.0)  
+申请号：CN201910733306.0  
+摘要：本发明涉及一种用于19种人呼吸道病毒检测的多重荧光定量PCR试剂盒，包括PCR扩增试剂盒和参考品试剂盒，所述PCR扩增试剂盒包括RVD19扩增液1#‑8#。本发明的试剂盒采用8孔联合检测方法，每一孔包含三个荧光通道，每个通道对应一种病原体，可以定性检测的同时区分出人呼吸道的19种病毒，是目前最全面的病毒性呼吸道感染病原体检测方法，为全面判断病毒性呼吸道感染病原体，为临床检验提供实验室辅助诊断的依据。  
+
 ## <h2 id="7">重要新闻报道</h2>
-1. 2019-04 复旦大学基础医学院陆路、姜世勃研究团队合作研究研发出具有广谱抗人冠状病毒活性的多肽类融合抑制剂
-2. 但是需要说明的是SARS-CoV, HCoV-OC43 和 HCoV -229E这三种病毒可以侵袭中枢神经系统，其他类型的冠状病毒目前并不能入侵大脑。
+1. `2019-04`[复旦大学基础医学院陆路、姜世勃研究团队合作研究研发出具有广谱抗人冠状病毒活性的多肽类融合抑制剂](https://news.fudan.edu.cn/2019/1018/c1240a102192/page.htm)  
+简述：日前，复旦大学基础医学院研究员陆路、教授姜世勃研究团队与上海科技大学免疫化学研究所杨贝、IanA.Wilson研究团队合作，通过交叉运用多种不同的技术手段，研发出能够广谱抑制多种人冠状病毒(HCoV)感染的多肽类融合抑制剂EK1，揭示了其作用靶点和发挥功能的分子机制。
