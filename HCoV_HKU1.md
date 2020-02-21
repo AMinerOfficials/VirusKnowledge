@@ -1,10 +1,10 @@
 # HCoV-HKU1
 
-`2020.02.13 Acher Wang 编辑`
+`2020.02.20 Acher Wang 编辑`
 
 # 导读
 
->HCoV-HKU1是***
+>HCoV-HKU1是冠状病毒的一种，致病性较低，一般引起呼吸道症状，类似普通感冒。
 
 # 目录
 - [病毒基本信息](#1)
@@ -56,12 +56,19 @@
 
 ## <h2 id="6">学术突破</h2>
 ### <h3 id="6.1">重要论文</h3>
-1. 2006年6月，Coronavirus HKU1 and Other Coronavirus Infections in Hong Kong"香港冠状病毒HKU1与冠状病毒感染"
-2. 2012年，Assays for laboratory confirmation of novel human coronavirus (hCoV-EMC) infections"新型人的实验室鉴定方法冠状病毒（hCoV-EMC）感染"
+1. [Coronavirus HKU1 and Other Coronavirus Infections in Hong Kong](https://www.aminer.cn/pub/55a3caffc91b587b0962a194/coronavirus-hku-and-other-coronavirus-infections-in-hong-kongk)  
+发表年份：2006年  
+**论文概要**：我们最近报道了一种新型冠状病毒HKU1 (CoV-HKU1)的发现，它与社区获得性肺炎有关。然而，与其他呼吸道病毒感染相关的CoV-HKU1感染的临床谱和流行病学尚不清楚。在这项为期12个月的前瞻性研究中，4181名急性呼吸道感染患者的鼻咽部吸入物接受了针对CoV-HKU1和人冠状病毒NL63 (HCoV-NL63)、OC43 (HCoV-OC43)和229E (HCoV-229E)的逆转录- pcr。87例(2.1%)患者检测到冠状病毒，其中，CoV-HKU1阳性13例(0.3%)，HCoV-NL63阳性17例(0.4%)，HCoV-OC43阳性53例(1.3%)，HCoV-229E阳性4例(0.1%)。13例CoV-HKU1感染患者中，11例为儿童，8例为基础疾病。与其他冠状病毒类似，CoV-HKU1感染最常见的表现是上呼吸道感染，但也出现肺炎、急性细支气管炎和哮喘加重。尽管发热持续时间较短(平均1.7天),没有最高温度差异CoV-HKU1感染儿童相比其他呼吸道病毒感染的患者,发热性癫痫的发生率高(50%)指出,这是明显高于那些HCoV-OC43(14%)、腺病毒(9%)、人类副流感病毒病毒1(0%)和呼吸道合胞病毒感染(8%)。CoV-HKU1和HCoV-OC43感染在冬季达到高峰，尽管前者的病例也发生在春季至初夏。这与HCoV-NL63感染形成对比，HCoV-NL63感染主要发生在夏初和秋季，但在冬季不发生。两个基因型的CoV-HKU1在研究期间共循环。为了确定不同冠状病毒的季节性变化和相对重要性，需要进行更长期的持续研究。其他国家的类似研究需要更好地确定CoV-HKU1的流行病学和遗传多样性。  
+
 ### <h3 id="6.2">重大专利</h3>
-1. HCoV-HKU1 real-time fluorescence PCR assay kit and nondiagnostic detection method thereof
-CN103710462B
-2. 一种引起呼吸道感染的新型人病毒及其用途
-CN101076591A
+1. [冠状病毒HKU1实时荧光PCR检测试剂盒及其非诊断性检测方法](http://www.wanfangdata.com.cn/details/detail.do?_type=patent&id=CN201310578974.3)  
+专利号：CN201310578974.3  
+摘要：本发明公开了一种冠状病毒HKU1实时荧光PCR检测试剂盒及其非诊断性检测方法，在HCoV-HKU1基因的保守区域设计引物及Taqman MGB探针，优化反应体系和反应条件，分析TaqMan MGB探针实时荧光PCR方法的特异性、最低检测限和重复性，并确定CUT OFF值。结果HCoV-HKU1实时荧光PCR方法最低检测量为4.96×101Copies/mL。该方法针对其他病原微生物及类基因组无反应信号，特异性好。4个梯度稀释质粒样品的4次重复检测CT值变异系数均小于5%，说明重复性好。结论HCoV-HKU1实时荧光PCR检测方法特异性好、敏感性高、稳定性好，在临床鉴别诊断和口岸冠状病毒的检测中具有很好的应用前景。
+
+2. [一种引起呼吸道感染的新型人病毒及其用途](http://www.wanfangdata.com.cn/details/detail.do?_type=patent&id=CN200580031315.1#)  
+专利号：CN200580031315.1  
+摘要：本发明提供在香港分离的新型人冠状病毒的完整基因组序列，将该新型人冠状病毒造词命名为人冠状病毒-HKU1(“HCoV-HKU1”)。该病毒属于套式病毒目(Nidovirales)冠状病毒科(Coronaviridae)，是正极性单链RNA病毒。对社区获得性肺炎患者的鼻咽抽吸物的进一步研究已揭示，该病毒有2个基因型：基因型A和基因型B。除了这两个基因型的基因组序列以外，本发明还提供CoV-HKU1完整基因组的推断氨基酸序列。HCoV-HKU1的核苷酸序列和推断的氨基酸序列用于预防、诊断和/或治疗HCoV-HKU1感染。此外，基于HCoV-HKU1的核苷酸序列和推断的氨基酸序列，本发明提供使用重组和嵌合形式的HCoV-HKU1以及HCoV-HKU1亚单位的免疫原性和疫苗制品。
+
 ## <h2 id="7">重要新闻报道</h2>
-1. 港大发现新冠状病毒——HKU1
+1. `2004年12月23日`[港大发现新冠状病毒——HKU1](http://news.sina.com.cn/o/2004-12-23/15204609727s.shtml)  
+简述：人民网香港12月23日电香港大学发现一种全球最新品种的冠状病毒，能导致呼吸道感染及肺炎——取名“HKU1”。研究人员成功完成有关病毒的基因排列工程，进一步的研究发现，原来早在去年SARS爆发期间，已有一名非SARS肺炎患者感染了这种新病毒，这说明新病毒早已在本港社区出现。冠状病毒是导致呼吸道感染的病毒之一，尤以OC43株及229E株两种较多，在伤风个案中有多达三分之一由冠状病毒引致,去年爆发SARS疫症的元凶也属冠状病毒的一种。
